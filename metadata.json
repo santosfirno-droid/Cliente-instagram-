@@ -1,0 +1,6 @@
+{
+  "name": "CrediCapital - Gestão de Empréstimos e Créditos",
+  "description": "Sistema completo para gestão de empréstimos com capital de giro renovável, conversão de juros em créditos e portal exclusivo do cliente com catálogo de resgate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
